@@ -1,0 +1,25 @@
+# Ignore o ambiente virtual
+vambient/
+
+# Ignore arquivos de dependências do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore arquivos de configuração do VS Code
+.vscode/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de banco de dados SQLite
+*.sqlite3
+
+# Ignore arquivos de pacotes instalados
+*.egg-info/
+dist/
+build/
+
+# Ignore arquivos de banco de dados PostgreSQL
+*.pgsql
+*.pg_dump
